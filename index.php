@@ -220,6 +220,7 @@
             </section>
 
             <?php include_once 'header-footer/footer.php'; ?>
+		<div><?php echo(4+6); ?></div>
     </div>
 
     <script>
